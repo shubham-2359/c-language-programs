@@ -1,3 +1,4 @@
+// College Information Management System in C
 #include <stdio.h>
 #include <string.h>
 
